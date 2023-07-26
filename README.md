@@ -7,4 +7,39 @@ Here i will try to share different task and findings so that i can learn and hel
 
 Planning to study it for 3 hours and then spending 3 hours in performing the tasks so that i could perfect it.
 
-# Syllabus
+## Syllabus
+[✔️] ♾️ 1 > [Introduction]
+[✔️] ♾️ 2 > [What is an Application]
+[✔️] ♾️ 3 > [How Application Works]
+[✔️] ♾️ 4 > [Developer's vs Tester vs DevOps Engineer]
+[✔️] ♾️ 5 > [Why DevOps]
+[✔️] ♾️ 6 > [Goal to Achieve]
+
+[❌] ♾️ > [Tasks]
+[❌] 💯 > [Interview Questions]
+
+### Linux
+[✔️] ♾️ 1 > [What is Linux]
+[✔️] ♾️ 2 > [Architecture of Linux]
+[✔️] ♾️ 3 > [Basic Commands of Linux]
+[✔️] ♾️ 4 > [How to work with files and Editor]
+[✔️] ♾️ 5 > [File System Hierachy]
+[✔️] ♾️ 6 > [Working with Files and Directory]
+[✔️] ♾️ 7 > [Redictors]
+[✔️] ♾️ 8 > [User Administration]
+[✔️] ♾️ 9 > [Permission Managment]
+[✔️] ♾️ 10 > [Archiving]
+[✔️] ♾️ 11 > [Filtering]
+[✔️] ♾️ 12 > [Job Schedulting]
+[✔️] ♾️ 13 > [Package Managment]
+[✔️] ♾️ 14 > [Netorking]
+[✔️] ♾️ 15 > [Process Managment]
+
+
+[✔️] ♾️ > [Tasks]
+[❌] 💯 > [Interview Questions]
+
+
+### Shell Script
+[❌] ♾️ 1 > [Introduction]
+
