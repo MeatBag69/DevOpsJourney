@@ -6,3 +6,5 @@ Welcome to my repository of DevOpsJourney. Here i will share my finding and diff
 Here i will try to share different task and findings so that i can learn and help someone in need.
 
 Planning to study it for 3 hours and then spending 3 hours in performing the tasks so that i could perfect it.
+
+# Syllabus
