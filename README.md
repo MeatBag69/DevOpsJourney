@@ -20,9 +20,9 @@ I plan to study for 3 hours and then spend 3 hours working on tasks, followed by
 - [✔️] ♾️ 1 > [Introduction](Introduction/Intro.md)
 - [✔️] ♾️ 2 > [What is an Application](Introduction/Application.md)
 - [✔️] ♾️ 3 > [How Application Works](Introduction/App%20Works.md)
-- [✔️] ♾️ 4 > [Developer vs Tester vs DevOps Engineer](Introduction/dev_vs_tester_vs_devops.md)
+- [✔️] ♾️ 4 > [Developer vs Tester vs DevOps Engineer](Introduction/dev%20vs%20tester%20vs%20devops.md)
 - [✔️] ♾️ 5 > [Why DevOps](Introduction/why.md)
-- [✔️] ♾️ 6 > [Goal to Achieve](Introduction/goal_to_achieve.md)
+- [✔️] ♾️ 6 > [Goal to Achieve](Introduction/goal%20to%20achieve.md)
 <br>
 
 - [❌] ♾️ > Tasks
@@ -32,23 +32,23 @@ I plan to study for 3 hours and then spend 3 hours working on tasks, followed by
 ### Linux
 - [✔️] ♾️ 1 > [What is Linux](Linux/What.md)
 - [✔️] ♾️ 2 > [Architecture of Linux](Linux/Architecture.md)
-- [✔️] ♾️ 3 > [Basic Commands of Linux](Linux/Basic_Commands.md)
-- [✔️] ♾️ 4 > [How to work with files and Editor](Linux/work_with_file_and_Editor.md)
-- [✔️] ♾️ 5 > [File System Hierarchy](Linux/File_System_Hierarchy.md)
-- [✔️] ♾️ 6 > [Working with Files and Directory](Linux/Working_with_File_and_Directory.md)
+- [✔️] ♾️ 3 > [Basic Commands of Linux](Linux/Basic%20Commands.md)
+- [✔️] ♾️ 4 > [How to work with files and Editor](Linux/work%20with%20file%20and%20Editor.md)
+- [✔️] ♾️ 5 > [File System Hierarchy](Linux/File%20System%20Hierarchy.md)
+- [✔️] ♾️ 6 > [Working with Files and Directory](Linux/Working%20with%20File%20and%20Directory.md)
 - [✔️] ♾️ 7 > [Redirectors](Linux/Redirectors.md)
 - [✔️] ♾️ 8 > [User Administration](Linux/Administrations.md)
-- [✔️] ♾️ 9 > [Permission Management](Linux/Permission_Management.md)
+- [✔️] ♾️ 9 > [Permission Management](Linux/Permission%20Management.md)
 - [✔️] ♾️ 10 > [Archiving](Linux/Archiving.md)
 - [✔️] ♾️ 11 > [Filtering](Linux/Filtering.md)
-- [✔️] ♾️ 12 > [Job Scheduling](Linux/Job_Scheduling.md)
-- [✔️] ♾️ 13 > [Package Management](Linux/Package_Management.md)
+- [✔️] ♾️ 12 > [Job Scheduling](Linux/Job%20Scheduling.md)
+- [✔️] ♾️ 13 > [Package Management](Linux/Package%20Management.md)
 - [✔️] ♾️ 14 > [Networking](Linux/Networking.md)
-- [✔️] ♾️ 15 > [Process Management](Linux/Process_Management.md)
+- [✔️] ♾️ 15 > [Process Management](Linux/Process%20Management.md)
 <br>
 
 - [❌] ♾️ > [Tasks](Linux/Tasks/Readme.md)
-- [❌] 💯 > [Interview Questions](Linux/Interview_Questions/Readme.md)
+- [❌] 💯 > [Interview Questions](Linux/Interview%20Questions/Readme.md)
 
 
 ### Shell Script
