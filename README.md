@@ -17,7 +17,7 @@ I plan to study for 3 hours and then spend 3 hours working on tasks, followed by
 
 
 ## Syllabus
-- [✔️] ♾️ 1 > [Introduction](Introduction/intro.md)
+- [✔️] ♾️ 1 > [Introduction](Introduction/Intro.md)
 - [✔️] ♾️ 2 > [What is an Application](Introduction/Application.md)
 - [✔️] ♾️ 3 > [How Application Works](Introduction/app_works.md)
 - [✔️] ♾️ 4 > [Developer vs Tester vs DevOps Engineer](Introduction/dev_vs_tester_vs_devops.md)
@@ -25,9 +25,8 @@ I plan to study for 3 hours and then spend 3 hours working on tasks, followed by
 - [✔️] ♾️ 6 > [Goal to Achieve](Introduction/goal_to_achieve.md)
 <br>
 
-- [❌] ♾️ > [Tasks]
-- [❌] 💯 > [Interview Questions]
-
+- [❌] ♾️ > Tasks
+- [❌] 💯 > Interview Questions
   
 
 ### Linux
