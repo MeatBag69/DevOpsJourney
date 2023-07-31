@@ -52,5 +52,5 @@ I plan to study for 3 hours and then spend 3 hours working on tasks, followed by
 
 
 ### Shell Script
-[❌] ♾️ 1 > [Introduction]
+[❌] ♾️ 1 > [Introduction](Shell/Intro.md)
 
